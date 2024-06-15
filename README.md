@@ -1,1 +1,1 @@
-Aplikacija sukurta naudojant React, Javascript, Java, duomenų bazę H2
+Aplikacija sukurta naudojant React, Javascript duomenų bazę H2
